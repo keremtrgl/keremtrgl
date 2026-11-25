@@ -22,8 +22,6 @@
 | --- | --- |
 | [heirsofearth](https://github.com/keremtrgl/heirsofearth) | RimWorld 1.6 mod in C# and Python: nine nations, politics and ages of progress |
 | [ho4-fpsmap](https://github.com/keremtrgl/ho4-fpsmap) | Hearts of Iron IV performance map, Ironman and multiplayer safe |
-| [dersnotu-local](https://github.com/keremtrgl/dersnotu-local) | Turkish educational data and offline AI workflows |
-| [ders-notu](https://github.com/keremtrgl/ders-notu) | Educational notes and practice-question generation |
 | [hoi4-mildawntr](https://github.com/keremtrgl/hoi4-mildawntr) | Strategy-game content and systems design |
 | [Broalsohavenoidea](https://github.com/keremtrgl/Broalsohavenoidea) | Web development and experimentation |
 | [Slimefun](https://github.com/keremtrgl/Slimefun) | Java-based Minecraft plugin customization |
