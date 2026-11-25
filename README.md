@@ -16,10 +16,28 @@
 - I enjoy turning small ideas into working tools, games, and interactive experiences.
 - Current interests: **AI-assisted workflows, educational technology, automation, and game development**.
 
+## Spotlight: Heirs of Earth
+
+<a href="https://github.com/keremtrgl/heirsofearth">
+  <img src="https://raw.githubusercontent.com/keremtrgl/heirsofearth/main/HeirsOfEarth/About/Preview.png" alt="Heirs of Earth, a RimWorld mod" width="100%" />
+</a>
+
+**[Heirs of Earth](https://github.com/keremtrgl/heirsofearth)** is my RimWorld 1.6 mod, live on the Steam Workshop. Nine heir nations of Earth, from Nova Roma and the Yamato Shogunate to New Kemet and the Inti Empire, each with its own research branch, weapons, armour, buildings, people, music and story chains. They run their own politics, sign treaties, go to war and advance through the ages, and the player can unite them at a World Council.
+
+- **C# and Harmony** for the game logic: politics, ages of progress, raids, trade routes and the UI.
+- **Python generators** for about 900 XML definitions, the art and the sound.
+- **An in-game test suite** of more than 3,000 automated checks that runs before every release.
+
+<p>
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3845334110"><img src="https://img.shields.io/badge/Steam_Workshop-Heirs_of_Earth-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Heirs of Earth on the Steam Workshop" /></a>
+  <a href="https://github.com/keremtrgl/heirsofearth"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Heirs of Earth source on GitHub" /></a>
+</p>
+
 ## Featured work
 
 | Project | Focus |
 | --- | --- |
+| [heirsofearth](https://github.com/keremtrgl/heirsofearth) | RimWorld 1.6 mod in C# and Python: nine nations, politics and ages of progress |
 | [evrenetiketlemearaci](https://github.com/keremtrgl/evrenetiketlemearaci) | JavaScript-based labeling and data tooling |
 | [dersnotu-local](https://github.com/keremtrgl/dersnotu-local) | Turkish educational data and offline AI workflows |
 | [ders-notu](https://github.com/keremtrgl/ders-notu) | Educational notes and practice-question generation |
